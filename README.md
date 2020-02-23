@@ -1,3 +1,6 @@
 # alu_system_verilog_testbench
 
-work in progress
+Tested feb 2020 - yash
+
+
+https://www.edaplayground.com/x/gjj
